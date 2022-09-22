@@ -8,4 +8,12 @@ Aluno: Josué Júnior - Análise e Desenvolvimento de Sistemas (Estácio)
 
 - MySQL Workbench
 
-[Clique aqui para acessar e verificar na íntegra o PNG.](https://1josuejunior.github.io/modelagem-ecommerce-mysqlworkbench/blob/34e279a924e3a73d67bdc67848b894e4e4c3fb13/Modelagem%20do%20E-commerce%20-%20Database%20Experience.png)
+## Objetivo:
+
+- Refine o modelo apresentado acrescentando os seguintes pontos:
+
+## Narrativa:
+
+- Cliente PJ e PF – Uma conta pode ser PJ ou PF, mas não pode ter as duas informações;
+- Pagamento – Pode ter cadastrado mais de uma forma de pagamento;
+- Entrega – Possui status e código de rastreio;
