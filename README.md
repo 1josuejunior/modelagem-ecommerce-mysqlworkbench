@@ -8,4 +8,4 @@ Aluno: Josué Júnior - Análise e Desenvolvimento de Sistemas (Estácio)
 
 - MySQL Workbench
 
-[Clique aqui para acessar.](https://1josuejunior.github.io/modelagem-ecommerce-mysqlworkbench)
+[Clique aqui para acessar e verificar na íntegra o PNG.](https://1josuejunior.github.io/modelagem-ecommerce-mysqlworkbench)
