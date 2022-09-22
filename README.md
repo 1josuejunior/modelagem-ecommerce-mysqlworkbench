@@ -4,7 +4,7 @@
 
 Aluno: Josué Júnior - Análise e Desenvolvimento de Sistemas (Estácio)
 
-## Tecnologias
+## Tecnologias aplicadas
 
 - MySQL Workbench
 
